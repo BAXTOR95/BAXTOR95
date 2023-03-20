@@ -11,7 +11,7 @@
 
 ### Systems Engineer and Programmer
 
-Hello, I'm Brian Arriaga, a Systems Engineer and Self-taught Programmer based in the US. With over 3 years of professional experience, I have worked on a variety of projects using Python, JavaScript, and other programming languages. I have worked on many [projects](https://github.com/BAXTOR95) using Python and Javascript and other languages.
+Hello, I'm Brian Arriaga, a Systems Engineer and Self-taught Programmer based in the US. With over 3 years of professional experience, I have worked on many [projects](https://github.com/BAXTOR95) using Python and Javascript and other languages.
 
 - 🌍 I'm based in the Orlando, Fl
 - ✉️ You can contact me at [brian.arriaga@gmail.com](mailto:brian.arriaga@gmail.com)
