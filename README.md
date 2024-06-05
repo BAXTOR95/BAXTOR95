@@ -46,6 +46,6 @@ Hello, I'm Brian Arriaga, a Systems Engineer and Self-taught Programmer based in
 
 # 📊 GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=BAXTOR95&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BAXTOR95&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BAXTOR95&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![BAXTOR95's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAXTOR95&show_icons=true&theme=transparent)<br/>
+![BAXTOR95's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=BAXTOR95&theme=transparent&hide_border=true)<br/>
+![BAXTOR95's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAXTOR95&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=donut)
